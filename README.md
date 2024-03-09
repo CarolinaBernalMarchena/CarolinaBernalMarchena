@@ -12,10 +12,13 @@ Seeking opportunities to further develop my skills and contribute to impactful p
 - **Technologies of Interest:**
   - Node.js
   - Android Studio
+  - Angular
+  - Wordpress
   - Javascript
   - Typescript
   - Java
   - Python
+    
 
 
 - **Full Stack Development:**
