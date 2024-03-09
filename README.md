@@ -1,16 +1,35 @@
-### Hi there 👋
+## Curriculum Vitae
 
-<!--
-**CarolinaBernalMarchena/CarolinaBernalMarchena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Objective:
+As a Computer Engineering student specializing in Information Technology, I am passionate about leveraging emerging technologies to create innovative solutions. 
+Seeking opportunities to further develop my skills and contribute to impactful projects.
 
-Here are some ideas to get you started:
+### Education:
+- **Degree of Science in Computer Engineering**
+  University of Seville, Expected Graduation: 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+- **Technologies of Interest:**
+  - Node.js
+  - Android Studio
+  - Javascript
+  - Typescript
+  - Java
+  - Python
+
+
+- **Full Stack Development:**
+  - HTML
+  - CSS
+  - SQL
+  - NoSQL
+  - Docker/Kubernetes
+
+
+### Languages:
+- **English:** Fluent C1 by University of Seville. B2 Cambridge
+- **Spanish:** Native
+
+### Interests:
+- Exploring new technologies
+- Continuous learning and professional development
