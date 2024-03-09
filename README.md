@@ -1,6 +1,6 @@
 ## 🌟Carolina Bernal Marchena🌟
 
-### Objective:
+### About me:
 As a Computer Engineering student specializing in Information Technology, I am passionate about leveraging emerging technologies to create innovative solutions. 
 Seeking opportunities to further develop my skills and contribute to impactful projects.
 
